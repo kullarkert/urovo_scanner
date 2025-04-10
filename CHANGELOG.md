@@ -4,4 +4,8 @@
   
 ## [1.0.1] Ajustes Channel.
 
-* Primeiro release
+* correções
+
+## [1.0.2] Ajustes libs.
+
+* correções
