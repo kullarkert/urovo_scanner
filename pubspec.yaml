@@ -1,6 +1,6 @@
 name: urovo_scanner
 description: "Projeto elaborado para leitor urovo"
-version: 1.0.2
+version: 1.0.3
 repository: https://github.com/andrejp09/urovo_scanner
 
 environment:

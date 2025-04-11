@@ -9,3 +9,8 @@
 ## [1.0.2] Ajustes libs.
 
 * correções
+
+
+## [1.0.3] Ajustes libs.
+
+* ajuste na mimificação do projeto
