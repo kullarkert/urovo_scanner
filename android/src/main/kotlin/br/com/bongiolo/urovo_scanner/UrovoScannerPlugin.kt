@@ -140,7 +140,7 @@ class UrovoScannerPlugin: FlutterPlugin, MethodCallHandler,ActivityAware {
     }
   }
   private fun  isUrovoDevice():Boolean{
-    val deviceName = deviceName().toLowerCase()
+    val deviceName = deviceName().lowercase()
     val devices = listOf("urovo","dt50","dt50q","dt50s")
     var isUrovoDevice = false;
     for (device in devices){
